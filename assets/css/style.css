@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://media.istockphoto.com/videos/crystal-clear-christmas-background-video-id815609692?s=640x640");
+
+}
+
+.jumbotron {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.panel {
+    font-family: cursive;
+    font-size: 40px;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.container {
+    font-size: 30px;
+}
